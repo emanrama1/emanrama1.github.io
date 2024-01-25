@@ -1,0 +1,111 @@
+h2 {
+    color: rgb(10, 18, 163);
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    color: rgb(6, 6, 6);
+    font-style:italic;
+}
+.navbar {
+    background-color:darkgray;
+    overflow: hidden;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    float: right;
+    
+  
+  }
+  .just{
+   align-items: end;
+  }
+  
+  .navbar a {
+    display: block;
+    color: rgb(54, 7, 147);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #1b0799;
+    color: black;
+  }
+p{
+    color: rgb(255, 0, 153);
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    /*text-align: center;*/
+    text-align: right;
+    
+/*align-items: center;*/
+}
+.C{
+    display: flex; 
+    font-style: italic;
+    text-align: left;
+}
+
+
+h2{
+    display: flex;
+
+}
+h3{
+    display: flex;
+}
+
+
+.BB{
+    
+    text-align: center;
+  
+
+}
+img {
+    
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+
+.div2{
+    color: rgb(238, 127, 255);
+    text-align: center;
+   margin-right: auto;
+
+}
+
+    table {
+        margin: auto;
+      }
+      
+      /* Optional: Additional styling for the table */
+      table {
+        border-collapse: collapse;
+        width: 50%; /* You can adjust the width as needed */
+      }
+      
+      th, td {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 15px;
+      }
+      
+      th {
+        background-color: #f2f2f2;
+      }
+      
